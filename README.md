@@ -47,4 +47,7 @@ The 4 dataframes were loaded in PGAdmin then export to github.
 
 - the percentage 5-star reviews for all non-Vine reviews
 
-![Percentage_unpaid](https://user-images.githubusercontent.com/103543959/192584563-26bdfa7b-c729-4e58-874d-5abc00ee597f.png)
+![Percentage_unpaid](https://user-images.githubusercontent.com/103543959/192585854-33dbf483-08ae-4dd3-b769-23c8846fbd32.png)
+
+### Summary
+To resume, we think there is not much positivity bias state for five star reviews in the Vine program. The percentage of five reviews is only 48 %. The unpaid Five star review is 55% which still remain unpaid. Then another analysis, we could do with is to calculate the five star percentage of helpful votes. 
