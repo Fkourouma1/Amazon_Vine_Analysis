@@ -1,3 +1,8 @@
+Note: We could not upload the cvs files because the size were big(please see my resources files screenshot)
+
+![Screen Shot 2022-09-27 at 12 30 47 PM](https://user-images.githubusercontent.com/103543959/192595857-7db8bf5e-e715-4880-b124-8ac501b4c2a2.png)
+
+
 # Amazon_Vine_Analysis Overview
 In this module, we are working with Jennifer on the SellBy project. We will be analyzing Amazon reviews written by members of the paid Amazon Vine program. The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their products. Companies like SellBy pay a small fee to Amazon and provide products to Amazon Vine members, who are then required to publish a review.  We will have access to approximately 50 datasets. Each one contains reviews of a specific product. Then we will pick one of these datasets and use PySpark to perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAdmin. Next, we’ll use PySpark, Pandas, or SQL to determine if there is any bias toward favorable reviews from Vine members in your dataset. We’ll finish by writing a summary of the analysis for Jennifer to submit to the SellBy stakeholders.
 ## Deliverable 1
